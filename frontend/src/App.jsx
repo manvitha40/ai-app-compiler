@@ -15,7 +15,7 @@ function App() {
     try {
 
       const response = await axios.get(
-        "http://localhost:5000/api/metrics"
+         "https://ai-app-compiler-backend-3t5i.onrender.com/api/metrics",
       );
 
       setMetrics(response.data);
@@ -38,7 +38,7 @@ function App() {
 
       const response =
         await axios.post(
-          "http://localhost:5000/api/compile",
+          "https://ai-app-compiler-backend-3t5i.onrender.com/api/compile",
           { prompt }
         );
 
@@ -46,7 +46,7 @@ function App() {
 
 const metricsResponse =
   await axios.get(
-    "http://localhost:5000/api/metrics"
+    "https://ai-app-compiler-backend-3t5i.onrender.com/api/metrics",
   );
 
 setMetrics(metricsResponse.data);
