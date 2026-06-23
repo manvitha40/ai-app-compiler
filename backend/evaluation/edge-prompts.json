@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "prompt": "Build app"
+  },
+  {
+    "id": 2,
+    "prompt": "No login but role based access"
+  },
+  {
+    "id": 3,
+    "prompt": "Build ecommerce without products"
+  },
+  {
+    "id": 4,
+    "prompt": "Hospital with no patients"
+  },
+  {
+    "id": 5,
+    "prompt": "Everything public and private"
+  },
+  {
+    "id": 6,
+    "prompt": "No database but analytics dashboard"
+  },
+  {
+    "id": 7,
+    "prompt": "Users and customers are same entity"
+  },
+  {
+    "id": 8,
+    "prompt": "Admin dashboard without authentication"
+  },
+  {
+    "id": 9,
+    "prompt": "Build something for business"
+  },
+  {
+    "id": 10,
+    "prompt": "Create platform"
+  }
+]

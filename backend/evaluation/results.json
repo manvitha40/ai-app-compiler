@@ -1,0 +1,149 @@
+[
+  {
+    "prompt": "Build CRM with contacts and payments",
+    "success": true,
+    "latency": 3,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build ecommerce app",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build hospital management system",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build LMS with assignments",
+    "success": true,
+    "latency": 0,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build inventory management system",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build hotel booking platform",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build expense tracker",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build employee management system",
+    "success": true,
+    "latency": 0,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build school management portal",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build event management platform",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build app",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 1
+  },
+  {
+    "prompt": "No login but role based access",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 1
+  },
+  {
+    "prompt": "Build ecommerce without products",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Hospital with no patients",
+    "success": true,
+    "latency": 0,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Everything public and private",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 1
+  },
+  {
+    "prompt": "No database but analytics dashboard",
+    "success": true,
+    "latency": 0,
+    "repaired": false,
+    "warnings": 1
+  },
+  {
+    "prompt": "Users and customers are same entity",
+    "success": true,
+    "latency": 2,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Admin dashboard without authentication",
+    "success": true,
+    "latency": 0,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Build something for business",
+    "success": true,
+    "latency": 1,
+    "repaired": false,
+    "warnings": 0
+  },
+  {
+    "prompt": "Create platform",
+    "success": true,
+    "latency": 0,
+    "repaired": false,
+    "warnings": 1
+  },
+  {
+    "prompt": "TEST_REPAIR_CONTACTS",
+    "success": true,
+    "latency": 1,
+    "repaired": true,
+    "warnings": 0
+  }
+]

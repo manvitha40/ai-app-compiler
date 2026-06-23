@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "prompt": "Build CRM with contacts and payments"
+  },
+  {
+    "id": 2,
+    "prompt": "Build ecommerce app"
+  },
+  {
+    "id": 3,
+    "prompt": "Build hospital management system"
+  },
+  {
+    "id": 4,
+    "prompt": "Build LMS with assignments"
+  },
+  {
+    "id": 5,
+    "prompt": "Build inventory management system"
+  },
+  {
+    "id": 6,
+    "prompt": "Build hotel booking platform"
+  },
+  {
+    "id": 7,
+    "prompt": "Build expense tracker"
+  },
+  {
+    "id": 8,
+    "prompt": "Build employee management system"
+  },
+  {
+    "id": 9,
+    "prompt": "Build school management portal"
+  },
+  {
+    "id": 10,
+    "prompt": "Build event management platform"
+  }
+]
