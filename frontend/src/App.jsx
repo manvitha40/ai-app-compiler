@@ -101,7 +101,7 @@ const downloadReport = () => {
     <div className="app">
 
       <div className="header">
-        <h1>AI Application Compiler</h1><br></br>
+        <h1>AI Application Compiler v2</h1><br></br>
         <p>
   Transform natural language into validated,
   executable application configurations.
